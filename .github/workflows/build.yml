@@ -1,0 +1,22 @@
+name: Compilar APK
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Compilar APK con Buildozer
+        uses: ArtemSydoryk/buildozer-action@v1.2
+        with:
+          command: buildozer android debug
+
+      - name: Guardar APK
+        uses: actions/upload-artifact@v3
+        with:
+          name: Juego-APK
+          path: bin/*.apk
