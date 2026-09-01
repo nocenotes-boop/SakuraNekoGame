@@ -1,0 +1,171 @@
+{
+  "crystals": 14,
+  "affection": 0,
+  "chars": [
+    "luna",
+    "grisu",
+    "mochi",
+    "kira"
+  ],
+  "unis": [
+    "uni_rosa",
+    "uni_alba",
+    "uni_celeste"
+  ],
+  "items": [
+    "lazo_rojo",
+    "alas_fairy",
+    "bufanda_azul"
+  ],
+  "equipment": {
+    "luna": {
+      "espalda": "alas_fairy",
+      "cabeza": "lazo_rojo"
+    },
+    "grisu": {},
+    "mochi": {},
+    "kira": {}
+  },
+  "history": [
+    {
+      "kind": "item",
+      "id": "petalo",
+      "rarity": "N",
+      "new": false,
+      "name": "Pétalo de sakura (+5 cristales)"
+    },
+    {
+      "kind": "item",
+      "id": "petalo",
+      "rarity": "N",
+      "new": false,
+      "name": "Pétalo de sakura (+5 cristales)"
+    },
+    {
+      "kind": "uni",
+      "id": "uni_rosa",
+      "rarity": "SR",
+      "new": true,
+      "name": "Rosa"
+    },
+    {
+      "kind": "uni",
+      "id": "uni_alba",
+      "rarity": "R",
+      "new": true,
+      "name": "Alba"
+    },
+    {
+      "kind": "char",
+      "id": "mochi",
+      "rarity": "R",
+      "new": true,
+      "name": "Mochi"
+    },
+    {
+      "kind": "uni",
+      "id": "uni_alba",
+      "rarity": "R",
+      "new": false,
+      "name": "Alba"
+    },
+    {
+      "kind": "item",
+      "id": "petalo",
+      "rarity": "N",
+      "new": false,
+      "name": "Pétalo de sakura (+5 cristales)"
+    },
+    {
+      "kind": "item",
+      "id": "petalo",
+      "rarity": "N",
+      "new": false,
+      "name": "Pétalo de sakura (+5 cristales)"
+    },
+    {
+      "kind": "item",
+      "id": "petalo",
+      "rarity": "N",
+      "new": false,
+      "name": "Pétalo de sakura (+5 cristales)"
+    },
+    {
+      "kind": "item",
+      "id": "petalo",
+      "rarity": "N",
+      "new": false,
+      "name": "Pétalo de sakura (+5 cristales)"
+    },
+    {
+      "kind": "char",
+      "id": "kira",
+      "rarity": "SR",
+      "new": true,
+      "name": "Kira"
+    },
+    {
+      "kind": "item",
+      "id": "petalo",
+      "rarity": "N",
+      "new": false,
+      "name": "Pétalo de sakura (+5 cristales)"
+    },
+    {
+      "kind": "item",
+      "id": "petalo",
+      "rarity": "N",
+      "new": false,
+      "name": "Pétalo de sakura (+5 cristales)"
+    },
+    {
+      "kind": "char",
+      "id": "mochi",
+      "rarity": "R",
+      "new": false,
+      "name": "Mochi"
+    },
+    {
+      "kind": "item",
+      "id": "petalo",
+      "rarity": "N",
+      "new": false,
+      "name": "Pétalo de sakura (+5 cristales)"
+    },
+    {
+      "kind": "item",
+      "id": "petalo",
+      "rarity": "N",
+      "new": false,
+      "name": "Pétalo de sakura (+5 cristales)"
+    },
+    {
+      "kind": "item",
+      "id": "petalo",
+      "rarity": "N",
+      "new": false,
+      "name": "Pétalo de sakura (+5 cristales)"
+    },
+    {
+      "kind": "item",
+      "id": "petalo",
+      "rarity": "N",
+      "new": false,
+      "name": "Pétalo de sakura (+5 cristales)"
+    },
+    {
+      "kind": "uni",
+      "id": "uni_celeste",
+      "rarity": "SR",
+      "new": true,
+      "name": "Celeste"
+    },
+    {
+      "kind": "item",
+      "id": "petalo",
+      "rarity": "N",
+      "new": false,
+      "name": "Pétalo de sakura (+5 cristales)"
+    }
+  ]
+}
